@@ -1,0 +1,2 @@
+# Taeha-Ryu
+beginner coder
